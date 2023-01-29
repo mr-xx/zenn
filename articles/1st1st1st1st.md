@@ -1,5 +1,5 @@
 ---
-title: "zenn と GitHub が連携できるってすばらしい"
+title: "Zenn と GitHub が連携できるってすばらしい"
 emoji: "🙂"
 type: "tech"
 topics: ["github"]
